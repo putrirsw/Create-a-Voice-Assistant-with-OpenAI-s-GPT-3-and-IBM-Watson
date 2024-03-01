@@ -1,33 +1,37 @@
-# Text Sentiment Analysis using Caikit and Hugging Face 
+# Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 
-## Author : Cognitive Class AI
+## Author(s) : 
+### 1. @Talha-Siddiqui3
+Talha Siddiqui - A passionate individual who loves to work in the realm of software development.
+### 2. @arora-r 
+Rohit Arora - A life-long learner that develops cool technology.
 
-In this guided project you will build a Python application that uses Caikit run-time and API to query the Hugging Face model for sentiment analysis on text strings.
+-------------------------------------------------------
 
-In this project you will learn to perform Text Sentiment Analysis using Caikit and Hugging Face. Discover the power of leveraging a Hugging Face sentiment analysis model and calling it through APIs from a Python-based Caikit run-time. By following this tutorial, you will gain the skills to use Caikit as an abstraction layer that enables you to utilize and manage various kinds of AI models using a consistent interface.
+In this guided project, you'll learn how to build your own AI assistant using OpenAI's pre-trained GPT-3 model. Unlike the popular ChatGPT which communicates with text, your personal assistant will use voice. You will use Watson Speech-to-Text to give your AI assistant the gift of hearing and Watson Text-to-Speech so that your assistant can read the answers back to you.
 
-Caikit is an advanced AI toolkit designed to simplify the process of working with models through user-friendly APIs. With Caikit, you gain access to a powerful set of tools that enable seamless model integration across diverse data domains and tasks. 
-
-Hugging Face provides an extensive collection of pre-trained models, allowing developers and researchers to leverage cutting-edge NLP and Generative AI capabilities with ease. The platform also offers user-friendly APIs, empowering users to integrate these models seamlessly into their own applications and projects.
+A virtual assistant is a program designed to simulate conversation with human users, especially over the Internet using natural human voice. Assistants can be used in a variety of industries, including customer service, e-commerce, and education.
 
 --------------------------------------------------------
-# Mentee Info!
-## Name : Putri Riani Setyo Wulandari
-## Program : IBM Advance AI
-## Mentor : Jonathan Situmorang
+## Mentee Info!
+### Name : Putri Riani Setyo Wulandari
+### Program : IBM Advance AI
+### Mentor : Jonathan Situmorang
 --------------------------------------------------------
 
 ## Key learning objectives of this project include:
-- Installing the required Python libraries and Caikit run-time.
-- Exploring Caikit and understanding its capabilities in the context of model management.
-- Leveraging a Hugging Face model for sentiment classification.
-- Implementing API calls to interact with the sentiment analysis model seamlessly.
+- Understand the basics of chatbots and their various applications
+- Set up a development environment for building a chatbot using Python, Flask, HTML, CSS, and Javascript
+- Implement IBM Watson Speech-to-Text functionality to allow the chatbot to understand voice input from users
+- Integrate the chatbot with OpenAI's GPT-3 model to give it a high level of intelligence and the ability to understand and respond to user requests
+- Implement IBM Watson Text-to-Speech functionality to allow the chatbot to communicate with users through voice output
+- Combine all of the above components to create a functioning chatbot that can take voice input and provide a spoken response
 
 
 ## Skill learn in this Course
-- Caikit
-- Hugging Face
-- Sentiment Analysis
+- Text-to-Speech
+- Chatbots
+- Speech-To-Text
+- LLM
+- Generative AI
 - Python
-- AI Model
-- Open Source AI
