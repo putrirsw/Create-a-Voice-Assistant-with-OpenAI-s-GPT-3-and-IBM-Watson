@@ -1,9 +1,9 @@
 # Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 
 ## Author(s) : 
-### 1. @Talha-Siddiqui3
+### @Talha-Siddiqui3
 Talha Siddiqui - A passionate individual who loves to work in the realm of software development.
-### 2. @arora-r 
+### @arora-r 
 Rohit Arora - A life-long learner that develops cool technology.
 
 -------------------------------------------------------
